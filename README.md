@@ -1,4 +1,4 @@
-# DataSherlock-Bot
+# DataSherlock-Chatbot
 ![Ask_questions](https://github.com/chi0405/DataSherlock-Bot/assets/99033164/1619e04d-0ade-4d22-8fa8-186c7c110367)
 
 ## Inspiration
